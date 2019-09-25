@@ -1,0 +1,9 @@
+# python
+.idea/
+**/__pycache__
+
+# my
+*.docx
+*.png
+*.gif
+trajectories-0750am-0805am.csv
